@@ -4,6 +4,7 @@ import tensorflow as tf
 from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder
 import pandas as pd
 import pickle
+import tensorflow
 
 
 # Load the trained model
